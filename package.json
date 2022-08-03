@@ -1,6 +1,7 @@
 {
   "name": "ffms_component",
   "version": "1.0.0",
+  "license": "MIT",
   "scripts": {
     "start": "webpack-dev-server src/index.html",
     "build-wc": "npm run build-wc:clean && npm run build-wc:webpack",
